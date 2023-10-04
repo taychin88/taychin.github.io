@@ -676,7 +676,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     align-items: center;
     height: 250px;
 }
-.clients-area .item {padding: 0 25px;}
+.clients-area .item {padding: 10 25px;}
 
 .clients .clients-area .owl-carousel .owl-item img {
     display: block;
