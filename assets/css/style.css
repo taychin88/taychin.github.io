@@ -674,7 +674,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .clients-area {
     display: flex;
     align-items: center;
-    height: 250px;
+    height: 500px;
 }
 .clients-area .item {padding: 0 25px;}
 
