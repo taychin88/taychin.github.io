@@ -67,7 +67,7 @@ h3 {
 	color:#43485c;
     font-size: 14px;
 	font-family: 'Poppins', sans-serif;
-	text-transform: initial;
+	text-transform: capitalize;
 }
 
 h6 { 
